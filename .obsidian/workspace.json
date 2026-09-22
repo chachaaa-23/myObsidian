@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e468828e56ab2911",
+    "type": "split",
+    "children": [
+      {
+        "id": "961f1d4d6916024c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee960258b687170e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCNL 26/Zero-day vulnerability (제로데이 취약가능성).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zero-day vulnerability (제로데이 취약가능성)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72703a3a703f39f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c57c77ffeaaa1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3afe6081af1709",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe3dee1f028c6e7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4121ca8e06673ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4fb9aa2d23b30ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1dde308877e68b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2030354c81c6a648",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aug13 랩미팅.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ad441a3522bf323f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thu 2nd Jan - DevLog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Thu 2nd Jan - DevLog"
+            }
+          },
+          {
+            "id": "13faa2f236e3bf32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4673e97230bab4c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thu 2nd Jan - DevLog.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Thu 2nd Jan - DevLog"
+            }
+          },
+          {
+            "id": "a13bbb00a82fc5ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ee960258b687170e",
+  "lastOpenFiles": [
+    "MCNL 26/Zero-day vulnerability (제로데이 취약가능성).md",
+    "Untitled.base",
+    "랩미팅/Sep 21 랩미팅 v0.md",
+    "2026-09-23.md",
+    "Pasted image 20260922161145.png",
+    "Pasted image 20260922161134.png",
+    "Screenshot 2026-09-22 at 3.39.05 PM 1.png",
+    "Screenshot 2026-09-22 at 3.39.05 PM.png",
+    "Screenshot 2026-09-22 at 3.38.40 PM.png",
+    "Screenshot 2026-09-22 at 3.55.49 PM.png",
+    "Screenshot 2026-09-22 at 3.02.53 PM.png",
+    "논문- HTTP2vec.md",
+    "랩미팅/Sep8 랩미팅.md",
+    "랩미팅/0809 보고서 v0.md",
+    "랩미팅/Aug13 랩미팅.md",
+    "랩미팅/Aug21 랩미팅 v0.md",
+    "랩미팅/Aug21 랩미팅 v1.md",
+    "랩미팅/Jul30 랩미팅.md",
+    "MCNL 26/캡1 Middlebox와 WAF.md",
+    "MCNL 26/논문 ModSec-Learn.md",
+    "MCNL 26/논문 mmTLS.md",
+    "MCNL 26/vulnerability, exploit, payload.md",
+    "MCNL 26/Screenshot 2026-08-13 at 3.00.57 PM.png",
+    "MCNL 26/Pasted image 20260813150120.png",
+    "MCNL 26/OWASP ZAP.md",
+    "랩미팅/Screenshot 2026-09-05 at 8.29.04 PM.png",
+    "랩미팅/26-1 w15 랩미팅 초안.md",
+    "랩미팅/26-1 w15 랩미팅.md",
+    "랩미팅/🍏Toward LLM-Driven Rule Generation for Enforcement Systems.md",
+    "랩미팅/🐢Akamai WAAP 보호 (26-1 w13).md",
+    "Security Study/>Security.md",
+    "MCNL 26/OWASP WARM.md",
+    "MCNL 26/ModSecurity.md",
+    "MCNL 26/ModSec-Learn, Boosting ModSecurity with Machine Learning.md",
+    "MCNL 26/ModSec-AdvLearn, Countering Adversarial SQLInjections with Robust Machine Learning.md",
+    "MCNL 26/Middleware 미들웨어.md",
+    "MCNL 26/Docker.md",
+    "랩미팅",
+    "Untitled 1.base",
+    "Untitled",
+    "Security Study",
+    "Network Study",
+    "Untitled 1",
+    "MCNL 26",
+    "{25-2} DB Admin/PostgreSQL",
+    "과제8- note",
+    "JessiAlice/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
